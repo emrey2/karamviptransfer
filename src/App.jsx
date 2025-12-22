@@ -16,7 +16,7 @@ import Footer from "./components/Footer";
 function App() {
   useEffect(() => {
     AOS.init({
-      duration: 1000, // smooth animation duration
+      duration: 1500, // smooth animation duration
       easing: "ease-in-out", // natural feel
       once: true,
       offset: 50,
