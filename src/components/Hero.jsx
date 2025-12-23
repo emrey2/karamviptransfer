@@ -16,7 +16,7 @@ export default function Hero() {
         </p>
 
         <h1 className="text-4xl md:text-5xl font-bold leading-tight mb-4">
-          Premium VIP <br /> Havalimanı Transfer
+          Premium VIP Transfer <br /> Havalimanı Transfer
         </h1>
 
         <p className="text-gray-300 mb-8">

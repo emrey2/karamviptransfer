@@ -3,7 +3,7 @@ import { FaWhatsapp } from "react-icons/fa";
 export default function Header() {
   return (
     <header className="absolute top-0 left-0 w-full px-10 py-5 flex justify-between items-center z-20">
-      <div className="text-lg font-bold text-white">VIP Transfer İzmir</div>
+      <div className="text-lg font-bold text-white">Karam VIP Transfer</div>
 
       <a
         href="https://wa.me/905528194276"
